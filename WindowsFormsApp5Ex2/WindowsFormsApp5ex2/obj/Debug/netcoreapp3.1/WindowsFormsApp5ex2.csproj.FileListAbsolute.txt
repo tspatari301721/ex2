@@ -1,0 +1,47 @@
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.exe
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.deps.json
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.json
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.dev.json
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form2.resources
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfo.cs
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\user\source\repos\WindowsFormsApp5ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.genruntimeconfig.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.deps.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.dev.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form2.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfoInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfo.cs
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.genruntimeconfig.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.deps.json
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.json
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.runtimeconfig.dev.json
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\bin\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.Form2.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfoInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.AssemblyInfo.cs
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.dll
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\WindowsFormsApp5Ex2\WindowsFormsApp5ex2\obj\Debug\netcoreapp3.1\WindowsFormsApp5ex2.genruntimeconfig.cache
